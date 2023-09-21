@@ -48,45 +48,67 @@ Kaggle- https://www.kaggle.com/datasets/petalme/f1-drivers-dataset
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/3eb37ba3-66dc-428f-82f5-edf89616f189)
 
+Most of the drivers in the dataset don't race in F1 anymore, but have graced the tracks in the past.
+
 - ### Nations with most no. of drivers
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/8e6ffaa0-4336-4f25-9b94-27e3d6052acd)
+
+UK has produced the highest no. of drivers for F1, followed by USA, Italy, France and so on.
 
 - ### Top 5 nations with most no. of wins
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/aefd1ce9-cc65-414e-a870-10c3d53ff497)
 
+UK has the most no. of wins, with majority of the wins coming from the legendary driver Lewis Hamilton who is still active in F1 and races for Mercedes F1 team.
+
 - ### Scatter plot(Pole position v/s Race win)
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/94e74bf2-422a-4d41-a724-83b40cedab1f)
+
+In most of the cases, a pole postion, ensures a race win.
 
 - ### Top 5 Nations with Highest win rate
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/1027bfdf-cdc1-4bbd-bbc3-52ab57e7cdb4)
 
+Germany has the highest win rate, with some legendary drivers like Michael Schumacher, Sebastian Vettel, etc. coming from the nation and have graced the F1 tracks with tremendous records.
+
 - ### Top 10 Drivers with most no. of wins
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/f91c8720-d53f-4b32-8814-6e53a1655f5f)
+
+Lewis Hamilton(UK) surpassed Michael Schumacher(GER) to claim the top spot for most no. of F1 race wins. Also some legends of the sport are in the all time top 10 like Sebastian Vettel(GER) and Ayrton Senna(BRA). Also there are only 3 drivers in the top 10 who are currently active in F1.(Lewis Hamilton(UK), Max Verstappen(NED), Fernando Alonso(ESP)).
 
 - ### Top 10 active drivers with highest win rates
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/c617fe35-1bfa-431f-94ed-302193a7b5bd)
 
+Lewis Hamilton also has the best win rate among all other drivers who are currently active. Youngster Max Verstappen(NED) is just behind in the 2nd spot.
+
 - ### Top 10 drivers with highest points per entry
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/5dba964f-ee92-4028-85b3-bff061839c5c)
+
+Lewis Hamilton is the driver with highest points per entry(in a F1 race).
 
 - ### Decade wise distribution of drivers
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/ba7278c2-ccc5-4638-ae63-3a8c2b85bbc3)
 
+1960s have seen the highest no. of drivers participating in F1.
+
 - ### Top 10 drivers with most no. of Pole positions
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/23d9a0de-a5b8-4b4b-bedb-7f7bc26fb91e)
 
+Lewis Hamilton also has the most no. of pole postions while qualifying for a F1 race.
+
 - ### Drivers who participated in F1 for the longest time
 
 ![image](https://github.com/sarthak0613/F1-Drivers-Data-Analysis/assets/135547703/27c6c2aa-924c-4963-af4a-ed5ca76bbf03)
+
+Rubens Barichello(BRA), Kimi Raikkonen(FIN), Michael Schumacher(GER) and Fernando Alonso(ESP) have been active for the longest time(19 years) in F1 so far. Fernando Alonso is still active and racing in F1, which could mean he has a chance to break the record for the driver being active for the longest time.
 
 ## --Power BI Dashboard--
 
